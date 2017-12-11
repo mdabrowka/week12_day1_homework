@@ -30,7 +30,7 @@
 
 
 var app = function() {
-  addNewCat("Lola", "Tuna fish", `https://fthmb.tqn.com/65lNzIRNfZY4xY02D17b1RcGvso=/960x0/filters:no_upscale()/kitten-looking-at-camera-521981437-57d840213df78c583374be3b.jpg` )
+  addNewCat("Name: Lola", "Favourite food: Tuna fish", `https://fthmb.tqn.com/65lNzIRNfZY4xY02D17b1RcGvso=/960x0/filters:no_upscale()/kitten-looking-at-camera-521981437-57d840213df78c583374be3b.jpg` )
 }
 
 
